@@ -1,3 +1,4 @@
+#Rafael Angel Hernandez Gomez - Tomaz Salazar
 #3.1 Validación de Formulario:
 def validar_datos(nombre, email, edad, password):
     # Verificar que el nombre tenga entre 2 y 30 caracteres
@@ -289,3 +290,4 @@ def probar_accesos():
             print(f"Usuario: {usuario['nombre']:25} | Recurso: {recurso['nombre']:25} | Resultado: {resultado}")
 
 probar_accesos()
+
